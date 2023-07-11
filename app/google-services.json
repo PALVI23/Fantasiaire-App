@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994853283306",
+    "project_id": "story-book-app-82e8f",
+    "storage_bucket": "story-book-app-82e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994853283306:android:fb9d4ab323d0245b61be93",
+        "android_client_info": {
+          "package_name": "com.example.storyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994853283306-mndkupgkehkjafqcfqtm9q3mm2v80rtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.storyapp",
+            "certificate_hash": "556d03c1231e2863278094a2bbe3d600684bbd99"
+          }
+        },
+        {
+          "client_id": "994853283306-ah8pht8i6had34v5k1a3mfrqpcsd937u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArl7Ew09oiCS9Q6gcCtCJCVdJuaqm8-Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994853283306-ah8pht8i6had34v5k1a3mfrqpcsd937u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
